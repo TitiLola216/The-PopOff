@@ -1,0 +1,27 @@
+{
+  "name": "TitiLola",
+  "age": 49
+  "location": "Puerto Rico:"
+  "goals": {
+    "certification": {
+      "name": PSM I",
+      "target_date:: 2026-02-14",
+      "target_score": 90,
+      "status": "studying"
+    },
+    "technical_skills": [
+      "GitHub",
+      "Python",
+      "JSON", 
+      "Linux",
+    ]
+    "income": {
+      "target": 100000
+      "timeline": 2026
+    }
+    "brand": {
+  "name": "GodBodied",
+  "status": "building"
+  }
+},
+"updated": 2026-02-10"
